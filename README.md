@@ -2,13 +2,13 @@
 
 ## Introducción Personal
 
-![Iván Valetov Antonyuk](https://github.com/iV-ANT8/iV-ANT8/blob/main/README.md)
+![Iván Valetov Antonyuk](https://github.com/iV-ANT8/iV-ANT8/blob/main/Imagenes/YoNuevo.jpg)
 
 - 🧑‍🎓 Soy estudiante universitario de la licenciatura de **gestión de IT** en la UNPAZ.
 
 - 🍰 Tengo 20 años.
   
-- Aficionado en la tecnología y sus funciones, con enfoque en:
+- Aficionado a la tecnología y su funcionamiento, con enfoque en:
   + **Testing de Software** y **Automatización** con **Selenium** en Python 🐍.
   + **Desarrollo de Software** en general 💻.
 
