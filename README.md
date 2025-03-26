@@ -2,6 +2,8 @@
 
 ## Introducción Personal
 
+![Iván Valetov Antonyuk](https://github.com/iV-ANT8/iV-ANT8/blob/main/README.md)
+
 - 🧑‍🎓 Soy estudiante universitario de la licenciatura de **gestión de IT** en la UNPAZ.
 
 - 🍰 Tengo 20 años.
